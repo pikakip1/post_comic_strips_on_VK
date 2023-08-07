@@ -2,7 +2,7 @@ import os
 import random
 from dotenv import load_dotenv
 from download_comics import *
-from post_vk import *
+from post_comics import *
 
 
 def main():
